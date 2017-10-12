@@ -1,6 +1,4 @@
 /* 
- * Robert Huntington
- * Data Strutures Assignment 2
  * 
  * The purpose of this program is to simulate the way an elevator operates for a building containing 12 floors.
  * There are two main functions of the elevator, those functions being that the elevator can either go up or down.
